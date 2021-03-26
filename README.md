@@ -49,7 +49,7 @@ The above image represents the maximum number of companies acquired by a single 
 
 The above image illustrates the types of funding received by companies. Most of the companies receive funds as venture from venture capitals. </br>
 
-![Distribution of Target Variable](https://github.com/yogeshwaran-shanmuganathan/Success-Prediction-Analysis-for-Startups/blob/main/Result_Visualization_Images/Distribution%20of%20Target%20Variable.png)
+![Distribution of Target Variable](https://github.com/yogeshwaran-shanmuganathan/Success-Prediction-Analysis-for-Startups/blob/main/Result_Visualization_Images/Distribution%20of%20Target%20Variable-For%20Acqusition.png)
 
 Above image represents the distribution of target variable. In this project, the target variable is an indication of the acquisition status of the company. It has two values – 0 indicates that the company is not acquired and 1 indicates that the company is acquired. </br>
 
