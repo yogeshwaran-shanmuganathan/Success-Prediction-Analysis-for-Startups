@@ -64,4 +64,4 @@ From the above image, it can be seen that the AUC value of Multilayer Perceptron
 ## Conclusion
 From the results, it can be concluded that Multilayer Neural Network with 3 hidden layers with 30 neurons each performs the better as it has the overall best Area under Curve (AUC) and better accuracy when compared to other models. It would be really worth it to increase those numbers of Neural Network further with the optimal number of hidden layers and neurons and also with a more powerful machine with better processing speeds and memory. </br>
 
-###### Note: This applied project is done as a part of my final dissertation or applied project for the completion of Master of Science in Data Analytics at Dublin Business School, Dublin, Ireland.
+###### Note: This applied project is done as a part of my final dissertation or thesis for the completion of "Master of Science in Data Analytics" at Dublin Business School, Dublin, Ireland.
