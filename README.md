@@ -27,7 +27,7 @@ Before building model, the dataset transformed into CSV file from the data clean
 | testing_df     | 10%              |
 
 After splitting the data, the vector assembler is defined with features for modelling. Vector Assembler is used to merge the raw features and features generated from various attributes into a single feature vector. It is generally used to merge all the available features before building a model. </br>
-The models are used in this project to check for maximum efficiency. They are,
+The models & techniques used in this project to check for maximum efficiency are as follows,
 - Decision Tree
 - Gradient Boosted Trees
 - Random Forest
