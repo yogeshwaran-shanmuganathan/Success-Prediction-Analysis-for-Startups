@@ -32,7 +32,7 @@ The models & techniques used in this project to check for maximum efficiency are
 - Gradient Boosted Trees
 - Random Forest
 - Logistic Regression
-- Principal Component Analysis (PCA)
+- Logistic Regression with Principal Component Analysis (PCA)
 - Multilayered Perceptron Neural Network
 
 ## Model Evaluation
