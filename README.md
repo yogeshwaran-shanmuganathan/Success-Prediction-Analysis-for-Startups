@@ -2,7 +2,7 @@
 ## Introduction
 Startups are companies started by an individual or a small group of people based on a unique business idea. Most of the startups face high failure rates whereas few startups are very successful such as Facebook, Uber, and Snapchat etc. On average 90% of startups fail to succeed in their respective field of business. This work proposes a predictive method to determine the outcome of start-ups based on several key factors that contribute to the success such as Acquisitions, Investments, Total rounds of funding etc.  The analysis is done using various techniques such as ***Logistic Regression, Principal Component Analysis, Decision Trees, Gradient Boosted Trees, Random Forest and Neural Network***. The proposed models are evaluated based on factors such as accuracy and area under ROC curve. A start-up company can make use of the proposed analysis to determine the important factors and areas that are needed to be focused and improved to have a successful venture. </br>
 
-## Startups - IPO and M&As
+## Success factors of Startups - IPO and M&As
 The success of a startup is generally categorized as a two-way strategy. One, a company can have an *IPO (Initial Public Offering)* in which the company goes to a public share market where shareholders have the right to sell the share to the public. Other is being *Merged or Acquired (M&A)* by other company where the shareholders or the people who invested in the startup receive cash in return for their shares immediately. This is often referred to as the exit strategy. </br>
 
 ## Methodology
